@@ -1,0 +1,3 @@
+# blog_repo
+
+https://codedeal.wixsite.com/codedeal/single-post/shopping-portal-app-using-spring-mvc-spring-security-and-hibernate
